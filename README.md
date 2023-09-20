@@ -5,3 +5,8 @@ The intentionis to create a low-cost, open source cybersecurity bag so you don't
 ## Rubber Ducky
 
 Okay, let's start with one of the most well-known devices in the world of cybersecurity, the Rubber Ducky.
+
+| Materials
+| ----------
+| Arduino Micro Pro
+|
