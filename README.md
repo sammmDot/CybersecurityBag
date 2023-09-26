@@ -8,5 +8,5 @@ Okay, let's start with one of the most well-known devices in the world of cybers
 
 | Materials
 | ----------
-| Arduino Micro Pro
+| Arduino Pro Mini
 | MicroSD Module
