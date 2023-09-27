@@ -11,3 +11,6 @@ Okay, let's start with one of the most well-known devices in the world of cybers
 | Arduino Pro Micro
 
 Currently you are only loading the malicious code from the same *.ino file to the Arduino Pro Micro, then the project will be added the functionality so you can load the scripts on a microSD and run them, for the moment configure your payloads in a single *.ino file and load them.
+
+## Disclaimer
+ I am not responsible for the use that is given to this tool, it is only a project for purely educational purposes.
